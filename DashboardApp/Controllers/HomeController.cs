@@ -8,6 +8,7 @@ namespace DashboardApp.Controllers
     {
       ViewBag.Title = "Home";
       return View();
+
     }
   }
 }
